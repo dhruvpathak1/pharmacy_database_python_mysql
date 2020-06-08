@@ -21,5 +21,6 @@ The system has the following functionalities:
 * It is used to keep a record of the purchased medicine and the respective amount.
 * Further, the customer/hospital will be able to keep a track of their order and pay.
 * The log-in section at the first will allow the customer/hospital to enter the pharmacy system and place its order. If an account doesn’t exist, the system even allows to create a new account with all the detail.
+
 The main problem in a Pharmacy Management System is to keep it updated. Due to the constant advancement in the medical field of the world, it is very difficult to keep the pharmacy management system up-to-date and to keep a track of every medicine available. It is a very tedious job to keep the system proper and error free and to keep the pharmacy working in an efficient and in an orderly manner. Medicines cures diseases and illnesses and hence are very important to be updated every now and then. Expiration dates create an issue as well since the pharmacy needs to be careful while distributing medicines in large numbers.
 
