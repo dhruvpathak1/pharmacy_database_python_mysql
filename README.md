@@ -18,9 +18,6 @@ MediTrack is a pharmacy management software developed in Python using Tkinter fo
 ## Motivation
 With the rapid development in the medical field, maintaining an up-to-date pharmacy management system is challenging yet essential. MediTrack simplifies this by automating inventory control, expiration monitoring, and order processing, ensuring efficient and error-free pharmacy operations.
 
-## Getting Started
-Instructions to set up and run MediTrack will be available here soon.
-
 ## License
 This project is open source and available under the [MIT License](LICENSE).
 
